@@ -1,0 +1,6 @@
+{
+  "status": "healthy",
+  "service": "blackroad-living-planet",
+  "version": "1.0.0",
+  "timestamp": "{{TIMESTAMP}}"
+}
